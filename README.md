@@ -1,6 +1,6 @@
 # CDA
 
-## ✨ Lexiques ✨ ![alt text](https://www.icegif.com/wp-content/uploads/icegif-7021.gif)
+## ✨ Lexiques ✨ ![alt text](https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827)
                                                                
 - ## Scalable 
 > *Étymologiquement, le terme scalabilité vient de l’anglais « scale », qui fait référence à la mise à l’échelle.
