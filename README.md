@@ -1,4 +1,4 @@
-# CDA ![alt text](https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827) ![alt text](https://i.gifer.com/origin/eb/eb08729f0207dcaa5c06669f3a5d033e.gif)
+# CDA ![alt text](http://gifimgs.com/animations/anime/dragon-ball-z/Goku/goku_11.gif) ![alt text](https://i.gifer.com/origin/eb/eb08729f0207dcaa5c06669f3a5d033e.gif)
 
 ## ✨ Lexiques ✨ 
                                                                
