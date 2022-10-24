@@ -1,4 +1,6 @@
-# CDA ![alt text](https://i.pinimg.com/originals/8d/90/8a/8d908ae4bb456d5e864b5346affe6070.gif)
+![alt text](https://i.pinimg.com/originals/8d/90/8a/8d908ae4bb456d5e864b5346affe6070.gif)
+
+# CDA 
 
 ## ✨ Lexiques ✨ 
                                                                
