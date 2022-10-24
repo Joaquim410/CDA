@@ -1,4 +1,4 @@
-# CDA ![alt text](https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827) ![alt text](https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827)
+# CDA ![alt text](https://static.wikia.nocookie.net/oidarcn/images/7/78/Pika.gif/revision/latest?cb=20160720220827) ![alt text](https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif)
 
 ## ✨ Lexiques ✨ 
                                                                
