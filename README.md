@@ -16,8 +16,7 @@ Les clients et serveurs communiquent par l'échange de messages individuels (en 
 > *L’anglicisme Wireframe signifie littéralement structure, cadre, ou modèle en fil de fer.C’est le squelette de la future interface des applications mobiles, sites web et logiciels. Quelle qu’en soit la définition, le Wireframe est toujours une maquette au graphisme simplifié. Contrairement au mockup ou mock up, l’esthétique est secondaire.*
 
 - ## Maquette 
-> *La maquette de site web correspond à une esquisse, voire un prototype d’un site internet en création. Le processus de création graphique qui donne lieu à la création de maquettes graphiques> est appelé « maquettage ». La réalisation des maquettes se concentre principalement sur l’aspect graphique et le design d’un site web et de ses interfaces. Attention, ceci ne signifie pas l'occultation de tout l'aspect technique et fonctionnel du site dans le travail du maquettage. Avoir recours à un designer ou graphiste peut s’avérer être utile.
-*
+> *La maquette de site web correspond à une esquisse, voire un prototype d’un site internet en création. Le processus de création graphique qui donne lieu à la création de maquettes graphiques> est appelé « maquettage ». La réalisation des maquettes se concentre principalement sur l’aspect graphique et le design d’un site web et de ses interfaces. Attention, ceci ne signifie pas l'occultation de tout l'aspect technique et fonctionnel du site dans le travail du maquettage. Avoir recours à un designer ou graphiste peut s’avérer être utile.*
 
 - ## Prototype 
 > *Un prototype est le premier exemplaire d’un produit industriel. D’abord utilisé dans la création de logiciels lourds, cette technique est aujourd’hui recommandée par les professionnels du web.
