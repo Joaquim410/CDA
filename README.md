@@ -1,4 +1,4 @@
-# CDA ![](https://giffiles.alphacoders.com/121/12155.gif)
+# CDA 
 
 ## ✨ Lexiques ✨ ![](https://giffiles.alphacoders.com/121/12161.gif)  
                                  
