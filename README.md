@@ -25,7 +25,7 @@ Il existe plusieurs niveaux de réalisation, du plus grossier (zoning, croquis) 
 > *Le MVP (Minimum Viable Product / Produit Minimum Viable) est une version fonctionnelle et élémentaire du produit. Le MPV exige peu d’efforts et offre des retours utilisateurs. Le but est de tester des hypothèses et d’apprendre des clients en minimisant la prise de risques.
 >Donc le “MVP” est un produit juste assez abouti pour intéresser des utilisateurs. * 
 
-- ## Material design.
+- ## Material design
 
 
 
