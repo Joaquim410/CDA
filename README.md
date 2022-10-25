@@ -1,6 +1,4 @@
-![](https://i.pinimg.com/originals/8d/90/8a/8d908ae4bb456d5e864b5346affe6070.gif)
-
-# CDA 
+# CDA ![](https://giffiles.alphacoders.com/121/12155.gif)
 
 ## ✨ Lexiques ✨ ![](https://giffiles.alphacoders.com/121/12161.gif)  
                                  
