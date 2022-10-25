@@ -2,7 +2,7 @@
 
 # CDA 
 
-## ✨ Lexiques ✨ ![](https://giffiles.alphacoders.com/254/2544.gif)  
+## ✨ Lexiques ✨ ![](https://giffiles.alphacoders.com/121/12161.gif)  
                                  
 - ## Scalable 
 > *Étymologiquement, le terme scalabilité vient de l’anglais « scale », qui fait référence à la mise à l’échelle.
