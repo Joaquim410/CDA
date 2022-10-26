@@ -26,6 +26,12 @@ Il existe plusieurs niveaux de réalisation, du plus grossier (zoning, croquis) 
 >Donc le “MVP” est un produit juste assez abouti pour intéresser des utilisateurs. * 
 
 - ## Material design
+> *Le Material Design est une manière de concevoir l'interface graphique d'une application ou d'une page Internet.
+Il cherche à faciliter l'accès à tous les services aux utilisateurs non expérimentés, en rendant intuitive la navigation grâce à des icônes claires et compréhensibles.* 
+
+- ## Material design
+> *Le Material Design est une manière de concevoir l'interface graphique d'une application ou d'une page Internet.
+Il cherche à faciliter l'accès à tous les services aux utilisateurs non expérimentés, en rendant intuitive la navigation grâce à des icônes claires et compréhensibles.* 
 
 
 
