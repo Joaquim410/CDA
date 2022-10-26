@@ -29,10 +29,11 @@ Il existe plusieurs niveaux de réalisation, du plus grossier (zoning, croquis) 
 > *Le Material Design est une manière de concevoir l'interface graphique d'une application ou d'une page Internet.
 Il cherche à faciliter l'accès à tous les services aux utilisateurs non expérimentés, en rendant intuitive la navigation grâce à des icônes claires et compréhensibles.* 
 
-- ## Material design
-> *Le Material Design est une manière de concevoir l'interface graphique d'une application ou d'une page Internet.
-Il cherche à faciliter l'accès à tous les services aux utilisateurs non expérimentés, en rendant intuitive la navigation grâce à des icônes claires et compréhensibles.* 
+- ## Dictionnaire de données
+> *Un dictionnaire des données est une collection de métadonnées ou de données de référence nécessaire à la conception d'une base de données relationnelle.* 
 
+- ## MCD
+> *Le MCD est une représentation graphique de base de données qui permet facilement et simplement de comprendre comment les différents éléments sont liés entre eux. Utilisé assez tôt en conception de base de données, le MCD sert de base de travail et sera ensuite utilisé par les autres outils de Merise, à savoir le MPD et le MLD.* 
 
-
-
+- ## JSON
+> *JSON (JavaScript Object Notation) est un format de fichier textuel conçu pour l’échange de données. Il représente des données structurées basées sur la syntaxe des objets du langage de programmation JavaScript.*
