@@ -38,5 +38,14 @@ Il cherche à faciliter l'accès à tous les services aux utilisateurs non expé
 - ## JSON
 > *JSON (JavaScript Object Notation) est un format de fichier textuel conçu pour l’échange de données. Il représente des données structurées basées sur la syntaxe des objets du langage de programmation JavaScript.*
 
+- ## Design pattern
+> *Les design patterns sont des schémas de conception, c’est-à-dire des modèles de composants fonctionnels d’une interface répondant à des cas typiques d’interaction.*
+
+- ## MVC
+> *Le MVC signifie Model-View-Controller est un modèle architectural qui sépare une application en trois composants logiques principaux : modèle, vue et le contrôleur. Chacun de ces composants est construit pour gérer des aspects de développement spécifiques d’une application. MVC est l’un des frameworks de développement Web standard les plus fréquemment utilisés dans l’industrie pour créer des projets extensibles et évolutifs.*
+
+- ## SGBD
+> *Une base de données et un système de gestion de base de données, abrégé en SGBD, forment un système de base de données (ce dernier terme est toutefois souvent appelé simplement « base de données »). De manière générale, un SGBD est un logiciel qui définit le modèle d’un système de base de données et constitue ainsi une composante indispensable à la création, à la gestion et à l’utilisation d’une base de données.*
+
 ![](https://th.bing.com/th/id/R.788e50dbb2554a61e57b39b5eb3c6be6?rik=Rje8JFYHh7Q7og&riu=http%3a%2f%2fimgup.motion-twin.com%2fdinorpg%2f7%2f8%2f8e50dbb2_1308556.jpg&ehk=R5rgISzhn629ABHm%2bJQuaCKR%2f%2fdyenr4NwyZLTanK9I%3d&risl=&pid=ImgRaw&r=0) ![](https://giffiles.alphacoders.com/121/12161.gif)  
 
