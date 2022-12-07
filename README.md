@@ -47,7 +47,7 @@ Il cherche à faciliter l'accès à tous les services aux utilisateurs non expé
 - ## SGBD
 > *Une base de données et un système de gestion de base de données, abrégé en SGBD, forment un système de base de données (ce dernier terme est toutefois souvent appelé simplement « base de données »). De manière générale, un SGBD est un logiciel qui définit le modèle d’un système de base de données et constitue ainsi une composante indispensable à la création, à la gestion et à l’utilisation d’une base de données.*
 
-- ## kanban:
+- ## Kanban:
 >*Kanban est une méthode de travail qui s’inspire de l’approche Lean centrée sur l'amélioration continue des processus de production. Elle est conceptualisée en 1950 par l'ingénieur industriel japonais Taiichi Ōno pour le compte de Toyota dans le but d'optimiser la fabrication du constructeur automobile. Elle se fonde sur un système à "flux tirés", tenant compte des demandes des consommateurs, et non à flux poussés.Kanban consiste ainsi à s'adapter en permanence au besoin du client.*
 
 - ## Merise:
