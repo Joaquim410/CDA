@@ -48,22 +48,22 @@ Il cherche à faciliter l'accès à tous les services aux utilisateurs non expé
 > *Une base de données et un système de gestion de base de données, abrégé en SGBD, forment un système de base de données (ce dernier terme est toutefois souvent appelé simplement « base de données »). De manière générale, un SGBD est un logiciel qui définit le modèle d’un système de base de données et constitue ainsi une composante indispensable à la création, à la gestion et à l’utilisation d’une base de données.*
 
 - ## kanban:
-   >*Kanban est une méthode de travail qui s’inspire de l’approche Lean centrée sur l'amélioration continue des processus de production. Elle est conceptualisée en 1950 par l'ingénieur industriel japonais Taiichi Ōno pour le compte de Toyota dans le but d'optimiser la fabrication du constructeur automobile. Elle se fonde sur un système à "flux tirés", tenant compte des demandes des consommateurs, et non à flux poussés.Kanban consiste ainsi à s'adapter en permanence au besoin du client.*
+>*Kanban est une méthode de travail qui s’inspire de l’approche Lean centrée sur l'amélioration continue des processus de production. Elle est conceptualisée en 1950 par l'ingénieur industriel japonais Taiichi Ōno pour le compte de Toyota dans le but d'optimiser la fabrication du constructeur automobile. Elle se fonde sur un système à "flux tirés", tenant compte des demandes des consommateurs, et non à flux poussés.Kanban consiste ainsi à s'adapter en permanence au besoin du client.*
 
 - ## Merise:
-   > *Merise est une méthode d'analyse, de conception et de gestion de projet informatique.  Cette méthode reste adaptée pour la gestion des projets internes aux organisations, se limitant à un domaine précis.*
+> *Merise est une méthode d'analyse, de conception et de gestion de projet informatique.  Cette méthode reste adaptée pour la gestion des projets internes aux organisations, se limitant à un domaine précis.*
    
 - ## Formes normales:
-   > *Dans une base de données relationnelle, une forme normale désigne un type de relation particulier entre les entités. La normalisation consiste à restructurer une base de données pour respecter certaines formes normales, afin d'éviter la redondance des données et d'assurer l'intégrité des données.*   
+> *Dans une base de données relationnelle, une forme normale désigne un type de relation particulier entre les entités. La normalisation consiste à restructurer une base de données pour respecter certaines formes normales, afin d'éviter la redondance des données et d'assurer l'intégrité des données.*   
    
 - ## ORM:
-   > *Un mapping objet-relationnel est un type de programme informatique qui se place en interface entre un programme applicatif et une base de données relationnelle pour simuler une base de données orientée objet.*
+> *Un mapping objet-relationnel est un type de programme informatique qui se place en interface entre un programme applicatif et une base de données relationnelle pour simuler une base de données orientée objet.*
    
 - ## Formes normales:
-   > *Un caractère d'échappement, en informatique et en télécommunications, est un caractère qui déclenche une interprétation alternative du ou des caractères qui le suivent. Le caractère d'échappement peut : retirer sa valeur spéciale à un caractère.*
+> *Un caractère d'échappement, en informatique et en télécommunications, est un caractère qui déclenche une interprétation alternative du ou des caractères qui le suivent. Le caractère d'échappement peut : retirer sa valeur spéciale à un caractère.*
    
 - ## Injection SQL:
-   > * groupe de méthodes d'exploitation de faille de sécurité d'une application interagissant avec une base de données.*
+> * groupe de méthodes d'exploitation de faille de sécurité d'une application interagissant avec une base de données.*
 
 
 ![](https://th.bing.com/th/id/R.788e50dbb2554a61e57b39b5eb3c6be6?rik=Rje8JFYHh7Q7og&riu=http%3a%2f%2fimgup.motion-twin.com%2fdinorpg%2f7%2f8%2f8e50dbb2_1308556.jpg&ehk=R5rgISzhn629ABHm%2bJQuaCKR%2f%2fdyenr4NwyZLTanK9I%3d&risl=&pid=ImgRaw&r=0) ![](https://giffiles.alphacoders.com/121/12161.gif)  
